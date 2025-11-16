@@ -7,3 +7,10 @@ print(a[0])
 
 # Accessing the last item
 print(a[-1])
+
+# Using List Slicing
+
+a = [10, 20, 30, 40, 50]
+
+# Get a slice of the list from index 1 to 3
+print(a[1:4])
